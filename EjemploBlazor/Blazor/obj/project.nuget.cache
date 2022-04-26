@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TFcSqw1d3PVaYdBN7Eg4KKn1rJQVA/U1mXS7FuvuLkUAopggl0W7dWlNYkQHHNgnvhEdbdKT0iO0ggd6zg0rNg==",
+  "dgSpecHash": "TnFW4xmgZnbxomINzwWAfKWcFQCXSPzx2Wv0dg6JwVpWVr/nrscZ61T3tzFarp6KHUMf9i2oVXaqpVibKPAslA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cruzc\\Desktop\\Ejemplo Blazor\\EjemploBlazor\\Examen3\\EjemploBlazor\\Blazor\\Blazor.csproj",
+  "projectFilePath": "C:\\Users\\cruzc\\Desktop\\Ejemplo Blazor\\EjemploBlazor\\EjemploBlazor\\Blazor\\Blazor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cruzc\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\cruzc\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\currietechnologies.razor.sweetalert2.5.2.1.nupkg.sha512",

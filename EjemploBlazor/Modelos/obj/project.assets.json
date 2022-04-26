@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cruzc\\Desktop\\Ejemplo Blazor\\EjemploBlazor\\Examen3\\EjemploBlazor\\Modelos\\Modelos.csproj",
+      "projectUniqueName": "C:\\Users\\cruzc\\Desktop\\Ejemplo Blazor\\EjemploBlazor\\EjemploBlazor\\Modelos\\Modelos.csproj",
       "projectName": "Modelos",
-      "projectPath": "C:\\Users\\cruzc\\Desktop\\Ejemplo Blazor\\EjemploBlazor\\Examen3\\EjemploBlazor\\Modelos\\Modelos.csproj",
+      "projectPath": "C:\\Users\\cruzc\\Desktop\\Ejemplo Blazor\\EjemploBlazor\\EjemploBlazor\\Modelos\\Modelos.csproj",
       "packagesPath": "C:\\Users\\cruzc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cruzc\\Desktop\\Ejemplo Blazor\\EjemploBlazor\\Examen3\\EjemploBlazor\\Modelos\\obj\\",
+      "outputPath": "C:\\Users\\cruzc\\Desktop\\Ejemplo Blazor\\EjemploBlazor\\EjemploBlazor\\Modelos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cruzc\\AppData\\Roaming\\NuGet\\NuGet.Config",

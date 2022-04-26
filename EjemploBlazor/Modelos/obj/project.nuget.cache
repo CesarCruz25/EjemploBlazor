@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1KqmRUDEY6GKYGWvWNo1zfwpT2PGq46M2nNRYCcAp8EsQRjmF/wCoJnf/Z+BRDkVq2pK26Yb/VoQu8lPUCLCdQ==",
+  "dgSpecHash": "2jXQh9IZy3FkTVrVMBZ8uLgZ01WhYajPk2yMW9sQZMRHonaPf8OHT3HRcmeRgwpx621KUOs9B7jPqt7NM+/gwQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cruzc\\Desktop\\Ejemplo Blazor\\EjemploBlazor\\Examen3\\EjemploBlazor\\Modelos\\Modelos.csproj",
+  "projectFilePath": "C:\\Users\\cruzc\\Desktop\\Ejemplo Blazor\\EjemploBlazor\\EjemploBlazor\\Modelos\\Modelos.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

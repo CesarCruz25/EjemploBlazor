@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cruzc\\Desktop\\Ejemplo Blazor\\EjemploBlazor\\Examen3\\EjemploBlazor\\Datos\\Datos.csproj": {}
+    "C:\\Users\\cruzc\\Desktop\\Ejemplo Blazor\\EjemploBlazor\\EjemploBlazor\\Datos\\Datos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cruzc\\Desktop\\Ejemplo Blazor\\EjemploBlazor\\Examen3\\EjemploBlazor\\Datos\\Datos.csproj": {
+    "C:\\Users\\cruzc\\Desktop\\Ejemplo Blazor\\EjemploBlazor\\EjemploBlazor\\Datos\\Datos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cruzc\\Desktop\\Ejemplo Blazor\\EjemploBlazor\\Examen3\\EjemploBlazor\\Datos\\Datos.csproj",
+        "projectUniqueName": "C:\\Users\\cruzc\\Desktop\\Ejemplo Blazor\\EjemploBlazor\\EjemploBlazor\\Datos\\Datos.csproj",
         "projectName": "Datos",
-        "projectPath": "C:\\Users\\cruzc\\Desktop\\Ejemplo Blazor\\EjemploBlazor\\Examen3\\EjemploBlazor\\Datos\\Datos.csproj",
+        "projectPath": "C:\\Users\\cruzc\\Desktop\\Ejemplo Blazor\\EjemploBlazor\\EjemploBlazor\\Datos\\Datos.csproj",
         "packagesPath": "C:\\Users\\cruzc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cruzc\\Desktop\\Ejemplo Blazor\\EjemploBlazor\\Examen3\\EjemploBlazor\\Datos\\obj\\",
+        "outputPath": "C:\\Users\\cruzc\\Desktop\\Ejemplo Blazor\\EjemploBlazor\\EjemploBlazor\\Datos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cruzc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\cruzc\\Desktop\\Ejemplo Blazor\\EjemploBlazor\\Examen3\\EjemploBlazor\\Modelos\\Modelos.csproj": {
-                "projectPath": "C:\\Users\\cruzc\\Desktop\\Ejemplo Blazor\\EjemploBlazor\\Examen3\\EjemploBlazor\\Modelos\\Modelos.csproj"
+              "C:\\Users\\cruzc\\Desktop\\Ejemplo Blazor\\EjemploBlazor\\EjemploBlazor\\Modelos\\Modelos.csproj": {
+                "projectPath": "C:\\Users\\cruzc\\Desktop\\Ejemplo Blazor\\EjemploBlazor\\EjemploBlazor\\Modelos\\Modelos.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "C:\\Users\\cruzc\\Desktop\\Ejemplo Blazor\\EjemploBlazor\\Examen3\\EjemploBlazor\\Modelos\\Modelos.csproj": {
+    "C:\\Users\\cruzc\\Desktop\\Ejemplo Blazor\\EjemploBlazor\\EjemploBlazor\\Modelos\\Modelos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cruzc\\Desktop\\Ejemplo Blazor\\EjemploBlazor\\Examen3\\EjemploBlazor\\Modelos\\Modelos.csproj",
+        "projectUniqueName": "C:\\Users\\cruzc\\Desktop\\Ejemplo Blazor\\EjemploBlazor\\EjemploBlazor\\Modelos\\Modelos.csproj",
         "projectName": "Modelos",
-        "projectPath": "C:\\Users\\cruzc\\Desktop\\Ejemplo Blazor\\EjemploBlazor\\Examen3\\EjemploBlazor\\Modelos\\Modelos.csproj",
+        "projectPath": "C:\\Users\\cruzc\\Desktop\\Ejemplo Blazor\\EjemploBlazor\\EjemploBlazor\\Modelos\\Modelos.csproj",
         "packagesPath": "C:\\Users\\cruzc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cruzc\\Desktop\\Ejemplo Blazor\\EjemploBlazor\\Examen3\\EjemploBlazor\\Modelos\\obj\\",
+        "outputPath": "C:\\Users\\cruzc\\Desktop\\Ejemplo Blazor\\EjemploBlazor\\EjemploBlazor\\Modelos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cruzc\\AppData\\Roaming\\NuGet\\NuGet.Config",

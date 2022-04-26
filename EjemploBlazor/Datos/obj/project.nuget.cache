@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1GCuT13eXHRCABDAJc9IbTQe40ThnYaU4uBYzJjPDfoZD4vxf4TrOyBzuFq/JbPavnN+PqlBIlwKTUWA0X4gjQ==",
+  "dgSpecHash": "FtdHIRRCwG5/75OYcP3YsKRbFPU+LuJQXKpttKAJQaj7M7r1X0DYl90wewS5OaAIphvSV6O2HEg2O3Di6Oavdw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cruzc\\Desktop\\Ejemplo Blazor\\EjemploBlazor\\Examen3\\EjemploBlazor\\Datos\\Datos.csproj",
+  "projectFilePath": "C:\\Users\\cruzc\\Desktop\\Ejemplo Blazor\\EjemploBlazor\\EjemploBlazor\\Datos\\Datos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cruzc\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\cruzc\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
