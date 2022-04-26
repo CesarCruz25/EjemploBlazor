@@ -1,0 +1,12 @@
+C:\Users\cruzc\Desktop\Ejemplo Blazor\EjemploBlazor\EjemploBlazor\Modelos\bin\Debug\net6.0\Modelos.deps.json
+C:\Users\cruzc\Desktop\Ejemplo Blazor\EjemploBlazor\EjemploBlazor\Modelos\bin\Debug\net6.0\Modelos.dll
+C:\Users\cruzc\Desktop\Ejemplo Blazor\EjemploBlazor\EjemploBlazor\Modelos\bin\Debug\net6.0\ref\Modelos.dll
+C:\Users\cruzc\Desktop\Ejemplo Blazor\EjemploBlazor\EjemploBlazor\Modelos\bin\Debug\net6.0\Modelos.pdb
+C:\Users\cruzc\Desktop\Ejemplo Blazor\EjemploBlazor\EjemploBlazor\Modelos\obj\Debug\net6.0\Modelos.csproj.AssemblyReference.cache
+C:\Users\cruzc\Desktop\Ejemplo Blazor\EjemploBlazor\EjemploBlazor\Modelos\obj\Debug\net6.0\Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cruzc\Desktop\Ejemplo Blazor\EjemploBlazor\EjemploBlazor\Modelos\obj\Debug\net6.0\Modelos.AssemblyInfoInputs.cache
+C:\Users\cruzc\Desktop\Ejemplo Blazor\EjemploBlazor\EjemploBlazor\Modelos\obj\Debug\net6.0\Modelos.AssemblyInfo.cs
+C:\Users\cruzc\Desktop\Ejemplo Blazor\EjemploBlazor\EjemploBlazor\Modelos\obj\Debug\net6.0\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\cruzc\Desktop\Ejemplo Blazor\EjemploBlazor\EjemploBlazor\Modelos\obj\Debug\net6.0\Modelos.dll
+C:\Users\cruzc\Desktop\Ejemplo Blazor\EjemploBlazor\EjemploBlazor\Modelos\obj\Debug\net6.0\ref\Modelos.dll
+C:\Users\cruzc\Desktop\Ejemplo Blazor\EjemploBlazor\EjemploBlazor\Modelos\obj\Debug\net6.0\Modelos.pdb

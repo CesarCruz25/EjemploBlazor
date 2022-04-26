@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a7f6634c-75d3-4358-87cd-cf3041a2f62a": {
+      "ProjectGuid": "a7f6634c-75d3-4358-87cd-cf3041a2f62a",
+      "DisplayName": "Blazor",
+      "ColorIndex": 0
+    },
+    "0afaa0e4-7a84-4ef7-a28c-c1051f4a0888": {
+      "ProjectGuid": "0afaa0e4-7a84-4ef7-a28c-c1051f4a0888",
+      "DisplayName": "Modelos",
+      "ColorIndex": 1
+    },
+    "341c928b-b473-401e-bd31-12aee5901109": {
+      "ProjectGuid": "341c928b-b473-401e-bd31-12aee5901109",
+      "DisplayName": "Datos",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

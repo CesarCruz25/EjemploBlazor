@@ -1,0 +1,49 @@
+﻿@page "/Usuarios"
+
+<h3>Lista de Usuarios</h3>
+
+@if (usuariosLista == null)
+{
+    <div class="spinner"></div>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Código</th>
+                <th>Nombre</th>
+                <th>Rol</th>
+                <th>Está Activo</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var user in usuariosLista)
+            {
+                <tr>
+                    <td>@user.Codigo</td>
+                    <td>@user.Nombre</td>
+                    <td>@user.Rol</td>
+                    <td>
+                        @if(@user.EstaActivo)
+                        {
+                            <spam class="oi oi-circle-check" style="color:green;"></spam>
+                        }
+                        else
+                        {
+                            <spam class="oi oi-circle-x" style="color:red;"></spam>
+                        }
+
+                    </td>
+                    <td>
+                        <a class="btn btn-success" href="@($"/Usuarios/Editar/{user.Codigo}")">Editar</a>
+                    </td>
+
+
+                </tr>
+
+            }
+        </tbody>
+    </table>
+}
