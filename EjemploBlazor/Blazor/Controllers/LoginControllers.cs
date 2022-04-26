@@ -69,7 +69,7 @@ namespace Blazor.Controllers
             return LocalRedirect("/");
         }
 
-        [ HttpGet("/acount/logout")]
+        [ HttpGet("/account/logout")]
 
         public async Task<IActionResult> Logout()
         {
